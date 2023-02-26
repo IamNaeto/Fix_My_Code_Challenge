@@ -1,8 +1,4 @@
-<p align="center">
-  <img
-    src="http://www.holbertonschool.com/holberton-logo.png"
-    alt="Holberton School logo">
-</p>
+![image](https://user-images.githubusercontent.com/105589308/221425431-7131d8da-d9f7-44a9-a000-6ad95aa965ac.png)
 
 0x00. Fix my code
 =================
